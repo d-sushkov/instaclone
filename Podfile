@@ -5,6 +5,7 @@ target 'InstaClone' do
   use_frameworks!
 
 pod 'Appirater'
+pod 'SDWebImage'
 
 # Firebase
 pod 'Firebase/Core'
